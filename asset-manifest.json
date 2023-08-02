@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/UniQar-character-generator/static/css/main.11b21020.css",
+    "main.js": "/UniQar-character-generator/static/js/main.5303a72d.js",
+    "index.html": "/UniQar-character-generator/index.html",
+    "main.11b21020.css.map": "/UniQar-character-generator/static/css/main.11b21020.css.map",
+    "main.5303a72d.js.map": "/UniQar-character-generator/static/js/main.5303a72d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11b21020.css",
+    "static/js/main.5303a72d.js"
+  ]
+}
