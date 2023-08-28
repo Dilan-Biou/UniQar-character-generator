@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/UniQar-character-generator/static/css/main.11b21020.css",
-    "main.js": "/UniQar-character-generator/static/js/main.66767681.js",
+    "main.css": "/UniQar-character-generator/static/css/main.37932f4c.css",
+    "main.js": "/UniQar-character-generator/static/js/main.b4b5edac.js",
     "index.html": "/UniQar-character-generator/index.html",
-    "main.11b21020.css.map": "/UniQar-character-generator/static/css/main.11b21020.css.map",
-    "main.66767681.js.map": "/UniQar-character-generator/static/js/main.66767681.js.map"
+    "main.37932f4c.css.map": "/UniQar-character-generator/static/css/main.37932f4c.css.map",
+    "main.b4b5edac.js.map": "/UniQar-character-generator/static/js/main.b4b5edac.js.map"
   },
   "entrypoints": [
-    "static/css/main.11b21020.css",
-    "static/js/main.66767681.js"
+    "static/css/main.37932f4c.css",
+    "static/js/main.b4b5edac.js"
   ]
 }
