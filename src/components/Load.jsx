@@ -3,7 +3,7 @@ import React from "react";
 export default function Load(){
 
     const [showLoad, setShowLoad] = React.useState(1)
-    const [deleteLoad, setDeleteLoad] = React.useState("block")
+    const [deleteLoad, setDeleteLoad] = React.useState("")
     setTimeout( ()=> setShowLoad(0), 3000)
     setTimeout( ()=> setDeleteLoad("none"), 3800)
     
