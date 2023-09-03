@@ -3,11 +3,13 @@ import React from "react";
 export default function Load(){
 
     const [showLoad, setShowLoad] = React.useState(1)
+    const [deleteLoad, setDeleteLoad] = React.useState("block")
     setTimeout( ()=> setShowLoad(0), 3000)
+    setTimeout( ()=> setDeleteLoad("none"), 3800)
     
 
     return(
-        <div style={{opacity : showLoad}} className="load-page">
+        <div style={{opacity : showLoad, display : deleteLoad}} className="load-page">
             <div class="master-container">
                 <div class="container">
                     <div class="crescent">
